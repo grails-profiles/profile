@@ -33,5 +33,5 @@ repositories {
 }  
 
 dependencies {
-    runtime "org.grails.profiles:base:${project.grailsVersion}"
+    runtime "org.grails.profiles:base:3.2.0.RC1"
 }
